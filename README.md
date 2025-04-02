@@ -29,3 +29,45 @@ O AI Ad Manager é uma aplicação web para gerenciar e otimizar campanhas publi
 ## Como Usar
 
 1. Clone este repositório
+
+git clone https://github.com/seu-usuario/ai-ad-manager.git
+
+2. Abra o arquivo `index.html` em qualquer navegador web moderno
+- Alternativamente, você pode usar um servidor web local como Live Server (VS Code)
+
+3. Começe criando uma nova campanha e explorando as funcionalidades
+
+## Hospedagem
+
+Esta aplicação é puramente frontend e pode ser hospedada em qualquer serviço de hospedagem estática:
+
+- GitHub Pages (este repositório)
+- Netlify
+- Vercel
+- Qualquer hospedagem web tradicional
+
+## Personalização
+
+Este projeto usa Tailwind CSS para estilização. Você pode personalizar a aparência editando:
+
+- As configurações do Tailwind no cabeçalho do arquivo HTML
+- O arquivo `styles.css` para estilos específicos
+
+## Roadmap
+
+Recursos planejados para futuras versões:
+
+- Integração com APIs reais de plataformas de anúncios
+- Backend para armazenamento permanente de dados
+- Recursos avançados de relatórios
+- Sistema de autenticação
+
+## Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+## Contato
+
+Seu Nome - [@seutwitter](https://twitter.com/seutwitter) - email@exemplo.com
+
+Link do Projeto: [https://github.com/seu-usuario/ai-ad-manager](https://github.com/seu-usuario/ai-ad-manager)
