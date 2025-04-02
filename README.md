@@ -66,8 +66,4 @@ Recursos planejados para futuras versões:
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-## Contato
 
-Seu Nome - [@seutwitter](https://twitter.com/seutwitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/ai-ad-manager](https://github.com/seu-usuario/ai-ad-manager)
