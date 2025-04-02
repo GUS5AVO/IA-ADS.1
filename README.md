@@ -2,7 +2,8 @@
 
 Um gerenciador de campanhas publicitárias com recursos de otimização baseados em IA.
 
-![screenshot do aplicativo](https://via.placeholder.com/800x400?text=AI+Ad+Manager)
+![screenshot do aplicativo] ![Capturar](https://github.com/user-attachments/assets/d64a4d20-91e3-4861-b6a7-5f757fd2debe)
+
 
 ## Sobre o Projeto
 
