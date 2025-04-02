@@ -31,7 +31,7 @@ O AI Ad Manager é uma aplicação web para gerenciar e otimizar campanhas publi
 
 1. Clone este repositório
 
-git clone 
+git clone https://github.com/GUS5AVO/IA-ADS.1?tab=readme-ov-file#como-usar
 
 2. Abra o arquivo `index.html` em qualquer navegador web moderno
 - Alternativamente, você pode usar um servidor web local como Live Server (VS Code)
