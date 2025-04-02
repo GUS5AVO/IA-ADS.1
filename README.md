@@ -62,8 +62,6 @@ Recursos planejados para futuras versões:
 - Recursos avançados de relatórios
 - Sistema de autenticação
 
-## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 
